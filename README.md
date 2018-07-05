@@ -1,9 +1,5 @@
 # react-admin
-react-admin system solution
 
-### 文档地址：[wiki](https://github.com/yezihaohao/react-admin/wiki)
-
-### 问题和方案汇总：[issue](https://github.com/yezihaohao/react-admin/issues/12)
 
 ### 最下方增加版本更新日志😁
 
@@ -11,8 +7,7 @@ react-admin system solution
 > 网上react后台管理开源免费的完整版项目比较少，所以利用空余时间集成了一个版本出来，已放到GitHub
   启动和打包的时间都稍长，请耐心等待两分钟
 
-- [GitHub地址](https://github.com/yezihaohao/react-admin)
-- [预览地址](http://cheng_haohao.oschina.io/reactadmin/#/app/dashboard/index)(已增加响应式，可手机预览😄)
+
 
 ### 依赖模块
 <span style="color: rgb(184,49,47);">项目是用create-react-app创建的，主要还是列出新加的功能依赖包</span>
@@ -202,13 +197,3 @@ npm run build
     - 建议用css预处理器，文件名为xxx.module.less，引入相应组件即可使用。
     - 具体做法参见新增模块，路由后缀：/app/cssModule。[点击访问](http://cheng_haohao.oschina.io/reactadmin/#/app/cssModule)
 
-### 结尾
-该项目会不定时更新，后续时间会添加更多的模块
-
-欢迎和感谢大家PR~~👏👏
-
-若有问题，可加QQ群264591039与我交流
-
-ps:以上群满的时候请加群：592688854
-
-如果对你有帮助，给个star哟~~❤️❤️❤️❤️
